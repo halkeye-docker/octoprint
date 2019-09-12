@@ -2,6 +2,7 @@ octoprint-prometheus==1.1.0
 https://github.com/quanticchaos/OctoPrint-Webcamsb/archive/master.zip
 https://github.com/BillyBlaze/OctoPrint-FullScreen/archive/master.zip
 https://github.com/kanocz/octopi_eta_override/archive/master.zip
-https://github.com/AmedeeBulle/StatusLine/archive/master.zip
-https://github.com/TheSpaghettiDetective/OctoPrint-TheSpaghettiDetective/archive/beta.zip
+#https://github.com/AmedeeBulle/StatusLine/archive/master.zip
+#https://github.com/TheSpaghettiDetective/OctoPrint-TheSpaghettiDetective/archive/beta.zip
 https://github.com/fabianonline/OctoPrint-Telegram/archive/stable.zip
+https://github.com/StefanCohen/OctoPrint-Dashboard/archive/master.zip
