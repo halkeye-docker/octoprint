@@ -10,6 +10,7 @@ RUN cd /tmp \
 	&& mkdir -p /opt/ffmpeg \
 	&& tar xvf ffmpeg.tar.xz -C /opt/ffmpeg --strip-components=1 \
   && rm -Rf /tmp/*
+RUN pip install virtualenv
 
 #Create an octoprint user
 RUN useradd -ms /bin/bash octoprint && adduser octoprint dialout
