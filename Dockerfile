@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3.8.1
 EXPOSE 5000
 LABEL maintainer "docker@gavinmogan.com"
 
