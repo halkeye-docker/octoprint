@@ -1,5 +1,6 @@
 # octoprint-prometheus==1.1.0
-https://github.com/halkeye/octoprint-prometheus/archive/expose-metrics-jpweber.zip
+#https://github.com/halkeye/octoprint-prometheus/archive/expose-metrics-jpweber.zip
+https://github.com/tg44/OctoPrint-Prometheus-Exporter/archive/master.zip
 https://github.com/quanticchaos/OctoPrint-Webcamsb/archive/master.zip
 https://github.com/BillyBlaze/OctoPrint-FullScreen/archive/master.zip
 https://github.com/kanocz/octopi_eta_override/archive/master.zip
