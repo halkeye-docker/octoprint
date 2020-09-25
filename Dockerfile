@@ -1,5 +1,5 @@
 #FROM python:3.8.2
-FROM python:2.7
+FROM python:3.8.6
 EXPOSE 5000
 LABEL maintainer "docker@gavinmogan.com"
 
